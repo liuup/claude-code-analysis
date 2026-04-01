@@ -1,8 +1,8 @@
-# 第十三章：隐藏命令、Feature Flags 与彩蛋
+# 第十四章：隐藏命令、Feature Flags 与彩蛋
 
 [返回总目录](../README.md)
 
-[上一章：总结结论](./09-final-summary.md)
+[上一章：深度发现与边界案例分析](./06-extra-findings.md)
 
 ## 1. 本章导读
 
